@@ -1,0 +1,33 @@
+<resources>
+    <string name="main_appName">QUIZZZZ!</string>
+    <string name="main_startButton">Start!</string>
+    <string name="main_userName">Type your name here</string>
+    <string name="quiz_question1">1. What is Deoxyribonucleic acid commonly referred to as?</string>
+    <string name="quiz_q1A">RNA</string>
+    <string name="quiz_q1B">CIA</string>
+    <string name="quiz_q1C">DNA</string>
+    <string name="quiz_question2">2. Name two different organelles of a eukaryotic cell.</string>
+    <string name="quiz_q2A">Ribosome</string>
+    <string name="quiz_q2B">Plasmids</string>
+    <string name="quiz_q2C">Golgi apparatus</string>
+    <string name="quiz_q2D">Diploid</string>
+    <string name="quiz_question3">3. What process involves treating rubber with sulfur to harden it?</string>
+    <string name="quiz_question4">4. This word describes the force that pulls objects to the middle of the earth?</string>
+    <string name="quiz_question5">5 What type of trees yield the resin used to produce turpentine?</string>
+    <string name="quiz_q5A">Palm trees</string>
+    <string name="quiz_q5B">Pine trees</string>
+    <string name="quiz_q5C">Oak trees</string>
+    <string name="quiz_question6">6. Cumulus and Cirrus are types of what?</string>
+    <string name="quiz_question7">7. Which two planets have one or more moons?</string>
+    <string name="quiz_q7A">Ceres</string>
+    <string name="quiz_q7B">Mercury</string>
+    <string name="quiz_q7C">Earth</string>
+    <string name="quiz_q7D">Pluto</string>
+    <string name="quiz_question8">8. Where in the human body would you find the scaphoid bone?</string>
+    <string name="quiz_question9">9. Which grow upwards Stalactites or Stalagmites?</string>
+    <string name="quiz_q9A">Stalactites</string>
+    <string name="quiz_q9B">Stalagmites</string>
+    <string name="quiz_question10">10. What process involves heating an ore to obtain a metal?</string>
+    <string name="quiz_submitBtn">Submit</string>
+    <string name="quiz_restartBtn">Restart</string>
+</resources>

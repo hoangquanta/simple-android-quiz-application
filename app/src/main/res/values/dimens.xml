@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_main_userName">100dp</dimen>
+    <dimen name="margin_quiz_appName">30dp</dimen>
+    <dimen name="margin_quiz_answerTop">10dp</dimen>
+    <dimen name="padding_quiz_20dp">20dp</dimen>
+    <dimen name="padding_quiz_answerLeft">30dp</dimen>
+    <dimen name="width_quiz_answerEditText">150dp</dimen>
+    <dimen name="textsize_main_small">15sp</dimen>
+    <dimen name="textsize_main_medium">20sp</dimen>
+
+</resources>
